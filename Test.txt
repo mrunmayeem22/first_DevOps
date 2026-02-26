@@ -1,1 +1,2 @@
 Today is thursday Hello! This is First DevOps Practical
+welcome to DevOps world!
